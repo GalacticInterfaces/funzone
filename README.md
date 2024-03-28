@@ -1,2 +1,1 @@
-# funzone
-Fun Zone is an app store and theme store for free.
+#THIS IS AN OLD PROJECT
